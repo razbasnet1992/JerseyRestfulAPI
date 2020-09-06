@@ -1,0 +1,4 @@
+com/jersey/service/PersonService.class
+com/jersey/model/Person.class
+com/jersey/model/Response.class
+com/jersey/service/PersonServiceImp.class
